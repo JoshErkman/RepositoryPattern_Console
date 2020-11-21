@@ -239,7 +239,7 @@ namespace _06_RepositoryPattern_Console
 
             if (wasUpdated)
             {
-                Console.WriteLine("Content was successfully updated.")
+                Console.WriteLine("Content was successfully updated.");
             }
             else
             {
